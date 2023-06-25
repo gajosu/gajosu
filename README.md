@@ -1,10 +1,9 @@
 # Welcome to Gajosu's GitHub Profile! 👋
 
-Hi there! I'm Gabriel González, a software developer based in Guayaquil, Ecuador. I specialize in building robust solutions using PHP, Python, JavaScript, and TypeScript. Let me share a bit about myself and my work in the world of software development.
+Hi there! I'm Gabriel González, software developer based in Guayaquil, Ecuador. specialized in building robust solutions using PHP, Python, JavaScript and TypeScript. Let me share a little about myself and my work in the world of software development.
 
 ## About Me
 
-- 💻 Software Developer based in Guayaquil, Ecuador.
 - 🌟 Passionate about home automation and leveraging technology to create smart living environments.
 - 💡 Active contributor to open-source projects, making a positive impact on the developer community.
 - 🎵 Music enthusiast and skilled drummer, finding harmony in both code and beats.
