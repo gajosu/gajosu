@@ -31,10 +31,6 @@ Here are some noteworthy projects I've worked on:
 #### 🔄🔧 Eloquent Preferences
 [Eloquent Preferences](https://github.com/gajosu/eloquent-preferences) is a project I updated and enhanced. It adds cache functionality and other useful features to this abandoned project.
 
-### Enterprise Experience
-
-I have worked on various enterprise projects, including websites, e-commerce platforms, and complex enterprise solutions involving the development and management of multiple microservices. 🏢💼
-
 ## Connect with Me
 
 I'm always open to connecting and collaborating with fellow developers. Feel free to reach out to me via:
